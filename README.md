@@ -1,0 +1,2 @@
+# tmuxinator.file
+tmuxinator dotfile
