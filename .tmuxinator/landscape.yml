@@ -1,0 +1,12 @@
+name: landscape
+root: ~/
+
+#startup_window: standard
+attach: true
+
+windows:
+  - standard:
+      layout: cdbe,264x90,0,0{111x90,0,0,15,152x90,112,0[152x75,112,0,16,152x14,112,76,18]}
+      panes:
+        - vim
+      root: ~/
